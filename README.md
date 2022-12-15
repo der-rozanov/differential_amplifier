@@ -6,3 +6,4 @@ A differential amplifier is an electronic amplifier with two inputs, the output 
 $$H = \frac{R2}{R1} = \frac{250k}{25k} = 10$$
 
 The circuit is wiered on the board.  
+![Screenshot](3d.jpg)
